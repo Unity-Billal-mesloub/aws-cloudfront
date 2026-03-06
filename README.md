@@ -2,7 +2,7 @@
 
 &nbsp;
 
-Deploy an AWS CloudFront distribution for the provided origins using [Serverless Components](https://github.com/serverless/components).
+Deploy an AWS CloudFront distribution for the provided origins using.
 
 &nbsp;
 
@@ -137,6 +137,3 @@ $ serverless
 
 &nbsp;
 
-### New to Components?
-
-Checkout the [Serverless Components](https://github.com/serverless/components) repo for more information.
